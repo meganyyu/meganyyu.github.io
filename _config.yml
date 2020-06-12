@@ -51,8 +51,6 @@ plainwhite:
       url: "/projects"
     - title: Experience
       url: "/skills"
-    - title: Coursework
-      url: "/courses"
   dark_mode: true
 
 # Exclude from processing.
