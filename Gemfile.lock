@@ -248,6 +248,7 @@ DEPENDENCIES
   github-pages
   jekyll (~> 3.8.7)
   jekyll-feed (~> 0.12)
+  minima (~> 2.5)
   plainwhite
   tzinfo (~> 1.2)
   tzinfo-data
