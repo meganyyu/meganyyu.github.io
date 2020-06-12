@@ -33,6 +33,7 @@ theme: minima
 remote_theme: thelehhman/plainwhite-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 plainwhite:
   name: Megan Yu
@@ -41,6 +42,7 @@ plainwhite:
   social_links:
     github: meganyyu
     linkedIn: in/meganyyu
+    rss: rss
 
   navigation:
     - title: About
